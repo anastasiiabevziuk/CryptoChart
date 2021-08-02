@@ -1,0 +1,15 @@
+.information{
+    font-family: "Andale Mono", monospace;
+    position: relative;
+    padding: 4px 0 3px 20px;
+    color: #103513;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.sideBuy{
+    color: #10d84ce8;
+}
+.sideSell {
+    color: #e71212;
+}
+

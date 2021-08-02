@@ -1,0 +1,43 @@
+* {box-sizing: border-box;}
+body { 
+  margin: 0;
+  font-family: "Andale Mono", monospace;
+}
+.header {
+  overflow: hidden;
+  background-color: #d6fccbe8;
+  padding: 20px 100px;
+  max-height: 150px;
+  font-weight: bold;
+}
+.header a {
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+  font-size: 25px;
+}
+.logo {
+    float: left;
+}
+.headerRight{
+  float: right;
+  font-size: 25px;
+}
+.headerRight:hover {
+  background-color: rgb(207, 248, 183);
+  color: black;
+}
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+}

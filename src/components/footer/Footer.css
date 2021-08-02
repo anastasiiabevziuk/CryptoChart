@@ -1,0 +1,11 @@
+footer {
+    font-family: "Andale Mono", monospace;
+    width:100%;
+    text-align: center;
+    background-color: #d6fccbe8;
+    padding: 20px 100px;
+    max-height: 150px;
+    font-weight: bold;
+    font-size: 18px; 
+}
+

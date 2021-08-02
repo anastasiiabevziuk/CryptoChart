@@ -15,7 +15,7 @@ now you can run [http://localhost:3000](http://localhost:3000) to view it in the
 ### go to performance tap
 ### open context menu
 ### click "load profile..."
-### hoose "PerformanceProfile.json"
+### choose "PerformanceProfile.json"
 
 
 
